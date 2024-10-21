@@ -366,7 +366,11 @@ Este código combina uma estrutura clara, estilização responsiva e funcionalid
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+💥Rodando a aplicação💥
+ 
+ ➡ para rodar a aplicação é necessário fazer o fork desse repositório e o repositório do back, baixar eles e abrir o arquivo tando do back como do front no Vscode, em ambos é necessário abrir o terminal utilizando o "Ctrl" + "j", escrever "npm install" no terminal, no back é necessário escrever "npm start", ja no front pode ser feito instalando a extensão live server no próprio Vscode e clicar onde ele aparece no canto inferior direito do Vscode.
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
