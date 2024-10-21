@@ -361,7 +361,7 @@ Cada cômodo é representado por um bloco de código que inclui informações so
 Interatividade: Cada cômodo possui um botão que permite o envio manual de dados, aumentando a interatividade do usuário. O uso de IDs únicos para cada elemento permite a atualização em tempo real.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Resumo
+Resumo:
 Este código combina uma estrutura clara, estilização responsiva e funcionalidade robusta para criar uma interface de monitoramento de sensores. A integração de CSS para design e JavaScript para funcionalidade proporciona uma experiência de usuário fluida e dinâmica. Essa abordagem é especialmente eficaz para aplicações que requerem visualização em tempo real e interação do usuário. Se você tiver mais perguntas ou precisar de esclarecimentos adicionais, fique à vontade para perguntar!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
